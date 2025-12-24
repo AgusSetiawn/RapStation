@@ -100,7 +100,7 @@ Website ini fully responsive dan dioptimalkan untuk:
 
 ## 🚀 Live Demo
 
-**Production URL**: [Coming Soon]
+**Production URL**: [https://rap-station-rho.vercel.app](https://rap-station-rho.vercel.app)
 
 **Repository**: [https://github.com/AgusSetiawn/RapStation](https://github.com/AgusSetiawn/RapStation)
 
