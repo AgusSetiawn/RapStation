@@ -2,7 +2,7 @@
 
 > Modern web application for PlayStation and PC gaming rental services with real-time booking management and secure payment integration.
 
-![RapStation Hero](C:/Users/Xzero One/.gemini/antigravity/brain/faea70bd-f6c1-4ee4-8ad0-61fc78be6dd1/rapstation_hero_1766569577329.png)
+![Hero](C:/Users/Xzero One/.gemini/antigravity/brain/faea70bd-f6c1-4ee4-8ad0-61fc78be6dd1/rapstation_hero_1766569577329.png)
 
 ---
 
